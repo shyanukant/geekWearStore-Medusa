@@ -1,11 +1,11 @@
 # geekWearStore-Medusa
-[![mylogo.png](preview/favicon.ico)](preview/favicon.ico)
+![home.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Dde1hkTixnmP_7MGtUzfxj1TKkigw22Il9JgFjt1P105C9QEtpDdLBd_OVGnt4E1SL2l_i3cSwZ1PYaulTN7aA6G2VEB2CwXdnBeFOft8YsWGPnO--zkwhn_S6GGN0oVABEV95LpzqFTzGvfOJDn9y_8mc8UfvxNiKJdvWE6MWLdNYla6_UaqPiSvQ/s1600/preview-img.png)
 
 ### MY HANDLES
 
-Github : @shyanukant
+Github : [@shyanukant](https://github.com/shyanukant)
 
-Twitter : @shyanukant
+Twitter : [@shyanukant](https://twitter.com/shyanukant)
 
 Discord : shyanu#2992 
 
@@ -16,13 +16,11 @@ I have created a Web storefront using NextJs paired with MedusaJs
 ### Preview
 [![ezgif.com-gif-maker336d6bb0a0947860.gif](preview/geekWear.gif)]
 
-![home.png](preview/preview-img.png)
+![signin.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSghxqzObBKGHxQ5530o1jMkbcvMQWmHHfjukyPrDcKKu3NGj5QgUs_G0jJcJYIrW2KP8Nf8Z72Kr9KAzSCIYXSiprCAc9GDMu-BioxZHwjkMK0aj862LdN1ppw3IJxKYVSw02Ko3MW-2sGh4KSnOnRDQ9Ta1xpkquneDXh_CLFEZvgIsaab27nVqiFA/s1600/preview-img1.png)
 
-![singhin.png](preview/preview-img1.png)
+![store.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUb-EoVinlxzh8wPUK-vJzHwJHtFdoCc4SqtBHtENBKBVp9WdOpwOk7nFXKYRtRG6QLlBuFCKH1sFJcF7G3PbBSmFZvQ8ejdJUpgN3Rw2WFI05N8CQEcfxBXj7vk2DyS-CQCW_ZXlDFQaNBAZ_SbK391MKkgYChH6TouGwUT2ovbhzESeF_HKLq6VJaQ/s1600/preview-img2.png)
 
-![store.png](preview/preview-img2.png)
-
-![item.png](preview/preview-img3.png)
+![item.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsdIqGxY0znpxXFd2ZTr2xyKd6LOL8rClT42-E7QtaChZAvhgd7zWlxqgMBCIW81nYBdU2vNRK3SP803ltCftPnriCFXU-njEbfYGHFvbe4OjxP2ykQa914S7ZhiewxykQROmtjuYVB2OyKW1VYVBGJbnefJ2nxBhdckq0Yp1OwvHm9U1HbnHxGupXnQ/s1600/preview-img3.png)
 
 ## Set up Project
 
@@ -37,8 +35,8 @@ Prerequisites:
 - Node (https://node.org/)
 - Medusa CLI (```npm install -g @medusajs/medusa-cli```) .
 - PostgreSQL (https://www.postgresql.org/)
-- Paypal ()
-- MinIO ()
+- Paypal (https://developer.paypal.com/docs/online/)
+- MinIO (https://min.io/)
 
 ### Install Project
 
