@@ -1,5 +1,5 @@
 # geekWearStore-Medusa
-![home.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Dde1hkTixnmP_7MGtUzfxj1TKkigw22Il9JgFjt1P105C9QEtpDdLBd_OVGnt4E1SL2l_i3cSwZ1PYaulTN7aA6G2VEB2CwXdnBeFOft8YsWGPnO--zkwhn_S6GGN0oVABEV95LpzqFTzGvfOJDn9y_8mc8UfvxNiKJdvWE6MWLdNYla6_UaqPiSvQ/s1600/preview-img.png)
+![home.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDQ2IniUlbJGw_DHv6qdUQ4FHg49SL-K_ObIYQSGFHN6YZfAcEBbLSorhZjoAqBRjWfe5Yn8QR76M85b8lfiOLxnmAKKZkdhq_lPng0Pmqbdcmo1cjwICLCUdMC7sePOqlVLfo1oceWpGcZEPspMoI4rndRvC3H58tkRVrtjqPHKAc557hdKSHUCpGhA/s1600/geeWear.gif)
 
 ### MY HANDLES
 
@@ -7,14 +7,14 @@ Github : [@shyanukant](https://github.com/shyanukant)
 
 Twitter : [@shyanukant](https://twitter.com/shyanukant)
 
-Discord : shyanu#2992 
+Discord : shyanu#5275 
 
 ### Description
 
 I have created a Web storefront using NextJs paired with MedusaJs
 
 ### Preview
-[![ezgif.com-gif-maker336d6bb0a0947860.gif](preview/geekWear.gif)]
+![preview](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDQ2IniUlbJGw_DHv6qdUQ4FHg49SL-K_ObIYQSGFHN6YZfAcEBbLSorhZjoAqBRjWfe5Yn8QR76M85b8lfiOLxnmAKKZkdhq_lPng0Pmqbdcmo1cjwICLCUdMC7sePOqlVLfo1oceWpGcZEPspMoI4rndRvC3H58tkRVrtjqPHKAc557hdKSHUCpGhA/s1600/geeWear.gif)
 
 ![signin.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSghxqzObBKGHxQ5530o1jMkbcvMQWmHHfjukyPrDcKKu3NGj5QgUs_G0jJcJYIrW2KP8Nf8Z72Kr9KAzSCIYXSiprCAc9GDMu-BioxZHwjkMK0aj862LdN1ppw3IJxKYVSw02Ko3MW-2sGh4KSnOnRDQ9Ta1xpkquneDXh_CLFEZvgIsaab27nVqiFA/s1600/preview-img1.png)
 
