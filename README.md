@@ -48,7 +48,7 @@ Here are the steps to be taken after that :
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/shyanukannt/geekWearStore-Medusa.git
+git clone https://github.com/shyanukant/geekWearStore-Medusa.git
 ```
 
 1. Change directory and install dependencies:
